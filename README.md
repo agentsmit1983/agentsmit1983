@@ -1,6 +1,3 @@
-[ISSUE_TEMPLATE.md](https://github.com/user-attachments/files/18634512/ISSUE_TEMPLATE.md)
-[ISSUE_TEMPLATE.md](https://github.com/user-attachments/files/18634509/ISSUE_TEMPLATE.md)
-[PULL_REQUEST_TEMPLATE.md](https://github.com/user-attachments/files/18634508/PULL_REQUEST_TEMPLATE.md)
 [ISSUE_TEMPLATE.md](https://github.com/user-attachments/files/18634500/ISSUE_TEMPLATE.md)
 ## Hi there 👋
 
